@@ -1,27 +1,20 @@
-* {
-    font-family:Arial, Helvetica, sans-serif
-}
-
-.Im-a-class {
+.odd {
     background-color: lightpink;
     color: black;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#Im-an-ID {
+#even {
     color: blue;
-    font-size: 32px;
-    background-color: transparent;
-    font-weight: bold;
+    font-size: 36px;
 }
 
-.Im-cooler {
-    background-color: lightpink;
-    color: black;
-    font-size: 28px;
-}
-
-#Brother-to-that-guy {
+#even-2 {
     font-weight: bolder;
     background-color: lightgreen;
-    font-size: 26px;
+    font-size: 24px;
+}
+
+.cooler {
+    font-size: 24px;
 }
