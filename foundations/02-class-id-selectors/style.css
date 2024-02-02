@@ -1,0 +1,27 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.Im-a-class {
+    background-color: lightpink;
+    color: black;
+}
+
+#Im-an-ID {
+    color: blue;
+    font-size: 32px;
+    background-color: transparent;
+    font-weight: bold;
+}
+
+.Im-cooler {
+    background-color: lightpink;
+    color: black;
+    font-size: 28px;
+}
+
+#Brother-to-that-guy {
+    font-weight: bolder;
+    background-color: lightgreen;
+    font-size: 26px;
+}
